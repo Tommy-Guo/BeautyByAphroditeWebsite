@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "name": "Magical Soot Sprites",
+      "price": "$40.00 USD",
+      "description": "egergergergerg",
+      "collection": "",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_4187.jpg",
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_4184.jpg",
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_4184.jpg",
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_4184.jpg",
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_4184.jpg"
+      ]
+    },
+    {
+      "name": "Ducky Delight Pool",
+      "price": "$42.00 USD",
+      "description": "egergergergerg",
+      "collection": "",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_3095.jpg",
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_3093.jpg"
+      ]
+    },
+    {
+      "name": "NewJeans Black & Silver Chrome",
+      "price": "$45.00 USD",
+      "description": "egergergergerg",
+      "collection": "",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_4176.jpg",
+        "https://cdn.shopify.com/s/files/1/0689/0766/3645/files/IMG_4178.jpg"
+      ]
+    }
+  ]
+}
